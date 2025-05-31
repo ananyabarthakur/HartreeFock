@@ -31,7 +31,7 @@ This repository contains a minimal implementation of a **Hartree-Fock (HF) solve
 
 ---
 
-## 📦 Example Usage
+##  Example Usage
 
 ```python
 import numpy as np
